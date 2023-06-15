@@ -9,7 +9,7 @@
 
 ## Issues ? 
  * [telegram](https://t.me/ATLAS_TEAMM)
- * [Issues Page](https://github.com/EBLISYALME/Token-Grabber-discord/issues)
+ * [Issues Page](https://github.com/EBLISYALME/qb-RichPresence/issues)
 #### Like the project? Leave a star on the repository!
 
 ## Video Tutorial
